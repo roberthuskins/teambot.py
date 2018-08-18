@@ -1,0 +1,8 @@
+{pokemon} @ {item}
+Ability: {ability}
+EVs: {hp} HP / {atk} Atk / {def} Def / {spa} SpA / {spd} SpD / {spe} Spe
+{nature} Nature
+- {move1}
+- {move2}
+- {move3}
+- {move4}
