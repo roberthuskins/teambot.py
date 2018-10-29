@@ -1,6 +1,8 @@
 # teambot.py
 Regardless of the fact that I do not have a great name for this, this discord bot generates random Pokemon teams in a [smogon tier](https://bulbapedia.bulbagarden.net/wiki/Tier) of the user's choice. The user is given an import to use on [Pokemon Showdown](https://pokemonshowdown.com/).
 
+#### this bot is a refinement of my old and deleted mushroombot
+
 ## How to run:
 `YOUR_TOKEN_HERE` in run.py is where you put your discord API token.  
 Teambot runs off of [the discord.py api wrapper](https://github.com/Rapptz/discord.py), so you'll need to use Python 3 alongside their package.
