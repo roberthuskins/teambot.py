@@ -16,6 +16,8 @@ To run the bot,
 When you successfully [add your discord bot to your server](https://github.com/jagrosh/MusicBot/wiki/Adding-Your-Bot-To-Your-Server), the users will see something straightforward like this.  
 ![](https://i.imgur.com/mcnQUB0.png)
 
+typing `-team OU` in my discord gave me this example random team: https://pokepast.es/3a4b534535ff669a
+
 ### Credits:
 * API Wrapper: https://github.com/Rapptz/discord.py
 * Pokemon movesets: https://github.com/Zarel/Pokemon-Showdown/blob/master/data/factory-sets.json
